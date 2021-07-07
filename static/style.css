@@ -1,0 +1,28 @@
+header{
+ width: 100%;
+ background: #D8E3AB;
+ height: 70px;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.task {
+    background: #D8E3AB;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.task-title {
+    text-align: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.tasks {
+    margin: auto;
+    border-spacing: 100px;
+}
